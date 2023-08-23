@@ -16,9 +16,7 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
     <section class="page__content" itemprop="text">
-      Hello!</br>
-      Making a blog the only way I know how: re-wiring and re-skinning over an existing blog skeleton :)<br>
-      
+      {{ content }}
     </section>
   </article>
 </div>

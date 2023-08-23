@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts"
-    url: https://butterbeets.github.io/docs/blogindex.html
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /docs/index/
+  - title: "About"
+    url: /about/
+  - title: "Test Nav"
+    url: /testfile/ 
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
